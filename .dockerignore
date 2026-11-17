@@ -1,0 +1,7 @@
+.git
+.env
+.env.*
+scripts
+docs
+*.md
+qr-*.png
